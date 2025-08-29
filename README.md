@@ -6,17 +6,17 @@ This project performs Exploratory Data Analysis (EDA) on a restaurant sales data
 
 The dataset contains daily sales records with the following columns:
 
-Column	Description
-Order ID	Unique identifier for each order
-Date	Date of the transaction (dd/mm/yyyy)
-Product	Product purchased
-Price	Price per unit
-Quantity	Number of units purchased
-Purchase Type	Type of purchase (Online, In-store, Drive-thru)
-Payment Method	Payment method used (Credit Card, Cash, Gift Card)
-Manager	Manager responsible for the order
-City	City where the sale occurred
-Revenue	Total revenue from the order (Price × Quantity)
+- Column	Description
+- Order ID	Unique identifier for each order
+- Date	Date of the transaction (dd/mm/yyyy)
+- Product	Product purchased
+- Price	Price per unit
+- Quantity	Number of units purchased
+- Purchase Type	Type of purchase (Online, In-store, Drive-thru)
+- Payment Method	Payment method used (Credit Card, Cash, Gift Card)
+- Manager	Manager responsible for the order
+- City	City where the sale occurred
+- Revenue	Total revenue from the order (Price × Quantity)
 
 # Key Questions Answered
 
